@@ -1,2 +1,2 @@
-TrainingSrpingCoreLab
+TrainingSpringCoreLab
 =====================
